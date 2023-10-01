@@ -1,0 +1,5 @@
+name: 'Composer Audit'
+description: 'Github Actions for Composer audit'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
